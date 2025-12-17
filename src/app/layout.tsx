@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "Samsun Merkez Net",
+  description: "Samsun hava durumu ve uyarı sistemi",
+};
+
 export default function RootLayout({
   children,
 }: {
